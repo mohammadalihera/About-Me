@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Mohammad Ali:
 I am a software enginner. I am currently working in app development and web development. Also work on backend and devOps related works. And very much patonate about problem solving
 
 
